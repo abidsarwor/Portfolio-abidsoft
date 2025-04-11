@@ -1,0 +1,86 @@
+{
+  "_id": {
+    "$oid": "67cea778ef94eee55a657215"
+  },
+  "createdAt": {
+    "$date": "2025-03-10T08:48:55.372Z"
+  },
+  "desc": "My favorite in this programming sector is to fix ‍any Errors. Because in every error there is hope to learn something new. I won't quit until I can fix the error. In this programming life, I have tried to solve all kinds of problems and have succeeded. My policy is to stick with it until the problem is solved. Contact us today, and let's bring your vision to life with the power of Full stack development.",
+  "education": [
+    {
+      "period": "2022 - 2023",
+      "subject": "MBA",
+      "institution": "Delta Computer Science College,Rangpur",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0c7"
+      }
+    },
+    {
+      "period": "2018 - 2022",
+      "subject": "BBA",
+      "institution": "Delta Computer Science College,Rangpur",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0c8"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "period": "2022 - present",
+      "subject": "MERN Full Stack Web Development",
+      "institution": "Ostad",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0d0"
+      }
+    }
+  ],
+  "experienceLabel": [
+    {
+      "topic": "JavaScript",
+      "label": "90",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0c9"
+      }
+    },
+    {
+      "topic": "React.js",
+      "label": "90",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0ca"
+      }
+    },
+    {
+      "topic": "Next.js",
+      "label": "80",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0cb"
+      }
+    },
+    {
+      "topic": "Typescript",
+      "label": "65",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0cc"
+      }
+    },
+    
+    {
+      "topic": "MongoDB",
+      "label": "85",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0ce"
+      }
+    },
+    {
+      "topic": "MySQL",
+      "label": "70",
+      "_id": {
+        "$oid": "67d0caa49b5ca16a519ed0cf"
+      }
+    }
+  ],
+  "title": "About Myself",
+  "updatedAt": {
+    "$date": "2025-03-11T23:43:32.234Z"
+  }
+}

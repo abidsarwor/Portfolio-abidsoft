@@ -1,0 +1,55 @@
+[{
+  "_id": "1",
+  "img": "/images/projects/xyzenterprise.png",
+  "title": "E-commerce Website, MERN Full Stack",
+  "desc": "### XYZ Enterprise  \nXYZ Enterprise is a full-featured **E-commerce platform** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  \n\n#### Key Features:  \n- ✅ **User Authentication & Authorization** – Secure login/signup using JWT.  \n- ✅ **Product Management** – Add, update, and delete products with images.  \n- ✅ **Shopping Cart & Checkout** – Smooth cart experience with integrated payment gateway.  \n- ✅ **Order Tracking** – Users can track their order status in real-time.  \n- ✅ **Admin Dashboard** – Manage users, products, and orders efficiently.  \n\n#### Tech Stack Used:  \n- **Front-End:** React.js, Redux, Bootstrap  \n- **Back-End:** Node.js, Express.js  \n- **Database:** MongoDB  \n- **Authentication:** JSON Web Token (JWT)  \n- **Payment Integration:** Stripe/PayPal  \n\n🚀 This project ensures a **scalable, high-performance, and user-friendly** experience!",
+  "projectInfo": {
+    "client": "Own",
+    "category": "MERN, e-commerce",
+    "timeFrame": "",
+    "liveLink": "https://67f8b1ab0d52a54ff0f8c002--shop-verse-ecom.netlify.app/"
+  }
+},
+{
+  "_id": "2",
+  "img": "/images/projects/socialmediaBackend.png",
+  "title": "Social media Rest API, MERN Backend",
+  "desc": "A **Social Media REST API** is a backend service that allows applications to interact with a social media platform programmatically using **RESTful principles**. It provides endpoints to manage users, posts, comments, likes, and other social interactions.\n\n### **Key Features of a Social Media REST API:**\n\n1. **User Authentication & Authorization**  \n   - Secure login/signup using JWT or OAuth  \n   - Role-based access control (e.g., user, admin)  \n\n2. **User Management**  \n   - Create, update, and delete user profiles  \n   - Follow/unfollow users  \n\n3. **Post & Content Management**  \n   - Create, update, delete, and fetch posts  \n   - Upload media (images, videos)  \n   - Hashtags and mentions  \n\n4. **Engagement & Interaction**  \n   - Like/unlike posts  \n   - Comment on posts  \n   - Share/repost content  \n\n5. **Real-time Features**  \n   - WebSockets for live notifications  \n   - Chat & messaging support  \n\n6. **Search & Discovery**  \n   - Search users, posts, or hashtags  \n   - Trending topics  \n\n7. **Analytics & Insights**  \n   - User engagement tracking  \n   - Post reach and impressions  \n\n### **Tech Stack for a Social Media REST API:**\n- **Backend:** Node.js with Express.js, Python with Django/Flask  \n- **Database:** MongoDB, PostgreSQL, MySQL  \n- **Authentication:** JWT, OAuth (Google, Facebook, etc.)  \n- **Storage:** AWS S3, Firebase Storage  \n- **Real-time:** WebSockets, Firebase, Redis  \n\n### **Example Endpoints:**\n```plaintext\nPOST   /api/auth/signup     -> Register a user\nPOST   /api/auth/login      -> Authenticate user\nGET    /api/users/:id       -> Fetch user profile\nPOST   /api/posts           -> Create a new post\nGET    /api/posts/:id       -> Get a specific post\nPOST   /api/posts/:id/like  -> Like a post\nPOST   /api/comments        -> Add a comment\n```\n\nThis API powers **social networking apps**, **discussion platforms**, and **community-driven websites** by enabling seamless social interactions. 🚀",
+  "projectInfo": {
+    "client": "own",
+    "category": "MERN-backend, socialmedia",
+    "timeFrame": "",
+    "liveLink": "https://connect-verse-unite-now.netlify.app/"
+  }
+},
+{
+  "_id": "3",
+  "img": "/images/projects/abidportfolio.png",
+  "title": "Portfolio Website",
+  "desc": "# Abid's Portfolio – A Modern Professional Portfolio  \n\n## Overview  \nAbid's Portfolio is a sleek, responsive, and interactive personal portfolio website built with **React.js**. It highlights Abid’s skills, projects, and experience in web development, offering visitors an engaging experience with smooth animations and a user-friendly interface.  \n\n## Features  \n✅ **Home Page:** A visually appealing landing section with a welcoming introduction.  \n✅ **About Me:** A detailed section showcasing Abid’s background, skills, and career journey.  \n✅ **Projects Showcase:** A dynamic gallery displaying past projects with live demo links and GitHub repositories.  \n✅ **Tech Stack:** A section listing expertise in **MERN stack**, React.js, JavaScript, and other technologies.  \n✅ **Contact Form:** A functional form for visitors to send messages directly.  \n✅ **Dark Mode Toggle:** A stylish light/dark mode switch for better accessibility.  \n✅ **Smooth Animations:** Beautiful transitions powered by **Framer Motion** for a modern UI.  \n\n## Tech Stack  \n🚀 **Frontend:** React.js, Tailwind CSS, Framer Motion  \n🚀 **Backend (optional):** Node.js, Express.js  \n🚀 **Database (optional):** MongoDB  \n🚀 **Deployment:** Vercel / Netlify  \n\nThis project serves as a **professional portfolio** for job applications, freelance work, and networking opportunities. 🚀  ",
+  "projectInfo": {
+    "client": "Abid Sarwor",
+    "category": "React.js, Portfolio",
+    "timeFrame": "",
+    "liveLink": ""
+  }
+},
+  {
+    "_id": "67ceade46513ae186e838485",
+    "img": "https://www.jounieh.com.au/eepsoksa/2020/02/g3-240x180.jpg",
+    "title": "Food Website",
+    "desc": "Jounieh is open for lunch and dinner with a wide variety of menu options, from a la carte to banquets. Our menus feature the freshest, locally sourced ingredients, with catering to dietary requirements. We also have a wide selection of beverages from globally acclaimed wines to luxury cocktails and vintage scotch.\n\n",
+    "projectInfo": {
+      "client": "Charlotte",
+      "category": "MERN stack",
+      "timeFrame": "",
+      "liveLink": "https://www.jounieh.com.au/"
+    },
+    "createdAt": {
+      "$date": "2025-03-10T09:16:20.726Z"
+    },
+    "updatedAt": {
+      "$date": "2025-03-10T09:16:20.726Z"
+    }
+  }
+]

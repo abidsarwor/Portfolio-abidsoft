@@ -1,0 +1,40 @@
+[{
+  "img": "",
+  "title": "Custom Website Development",
+  "list": [
+    "Fully customized websites tailored to business needs",
+    "Responsive and mobile-friendly design",
+    "SEO-optimized for better search rankings",
+    "Performance and speed optimization"
+  ]
+},
+{
+  "img": "",
+  "title": "E-commerce Development",
+  "list": [
+    "Online store setup with Shopify, WooCommerce, or custom solutions",
+    "Secure payment gateway integration (Stripe, PayPal, etc.)",
+    "Inventory and order management system",
+    "User-friendly shopping cart and checkout"
+  ]
+},
+{
+  "img": "",
+  "title": "Web Application Development",
+  "list": [
+    "Full-stack web applications using MERN, MEAN, or LAMP stack",
+    "Progressive Web Apps (PWAs) for offline accessibility",
+    "API development and integration",
+    "Scalable and high-performance web solutions"
+  ]
+},
+{
+  "img": "",
+  "title": "Website Maintenance & Support",
+  "list": [
+    "Regular updates and security patches",
+    "Bug fixing and performance improvements",
+    "Content updates and feature enhancements",
+    "24/7 monitoring and technical support"
+  ]
+}]
